@@ -1,10 +1,10 @@
-# 📝 NLP Projects - Sentiment Analysis & Resume Screening  
+# 📝 NLP Projects - Sentiment Analysis & Text Classification  
 
 ## 📌 Overview  
 This repository contains **three major NLP projects**, each applying different techniques in **Natural Language Processing (NLP)**:  
-1. **Amazon Alexa Sentiment Analysis (Machine Learning Approach)**  
+1. **Amazon Alexa Sentiment Analysis (Traditional Machine Learning Approach)**  
 2. **Amazon Alexa Sentiment Analysis (Fine-Tuned BERT Model)**  
-3. **AI-Powered Resume Screener (NLP & ML-Based Ranking System)**  
+3. **NLP-Based Text Classification Using Word2Vec & TF-IDF**  
 
 Each project involves **text preprocessing, vectorization, and machine learning models** to analyze, classify, and extract insights from textual data.
 
@@ -46,28 +46,28 @@ This project **fine-tunes a BERT model** for sentiment classification, leveragin
 
 ---
 
-## 🚀 Project 3: AI-Powered Resume Screener  
+## 🚀 Project 3: NLP-Based Text Classification Using Word2Vec & TF-IDF  
 
 ### **✅ Summary**  
-This NLP project builds a **resume ranking system** that compares **resume content with job descriptions** to help recruiters filter top candidates.
+This NLP project builds a **text classification model** using **Word2Vec embeddings** and **TF-IDF** to extract insights from textual data.
 
 ### **📂 Dataset**  
-- Custom dataset of resumes & job descriptions.
+- Custom dataset of text samples for classification.
 
 ### **🛠️ Key Features**  
-✅ **Text Preprocessing:** Tokenization, Lemmatization, Stopword Removal.  
-✅ **Feature Engineering:** TF-IDF, Word2Vec for text vectorization.  
-✅ **Classification Models:** Logistic Regression, Naïve Bayes for ranking.  
-✅ **Skill Gap Analysis:** Determines missing skills in resumes.  
+✅ **Text Preprocessing:** Tokenization, Stopword Removal, and Cleaning.  
+✅ **Vectorization:** Word2Vec and TF-IDF.  
+✅ **Machine Learning Models:** Text classification using models like SVM or Naïve Bayes.  
+✅ **Model Evaluation:** Performance analysis through accuracy and precision scores.  
 
 📂 **Notebook:** [View Project 3](https://github.com/poojameshram98/Resume-Projects/blob/main/NLP_Project/PoojaMeshram_NLP_Project_3.ipynb)  
 
 ---
 
 ## 📌 Future Enhancements  
-🔹 **Deploy Resume Screener as a Web App** using Streamlit.  
 🔹 **Improve Sentiment Analysis with BERT-Large models.**  
-🔹 **Expand Resume Screener with Deep Learning.**  
+🔹 **Expand Text Classification with Deep Learning.**  
+🔹 **Integrate Sentiment Analysis into a Web App.**  
 
 ---
 
