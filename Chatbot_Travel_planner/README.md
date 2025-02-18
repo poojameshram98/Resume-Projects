@@ -82,8 +82,8 @@ Developed using **Landbot**, **NLP**, and **API integrations**, this chatbot hel
 
 ## 📎 Resources & Documentation  
 
-📂 **Project Report (PDF):** [Download Here](Quick_Travel_Planner_Demo_document_pooja_meshram_AI_for_business.pdf)  
-📂 **Presentation (PPTX):** [Download Here](Chatbot_Quick_travel_planner_pooja_meshram_final_project.pptx)  
+📂 **Project Report (PDF):** [Download Here](https://github.com/poojameshram98/Resume-Projects/blob/main/Chatbot_Travel_planner/Quick%20Travel%20Planner%20Demo%20document_pooja%20meshram_AI%20for%20business.pdf)  
+📂 **Presentation (PPTX):** [Download Here](https://github.com/poojameshram98/Resume-Projects/blob/main/Chatbot_Travel_planner/Chatbot_Quick%20travel%20planner_pooja%20meshram_final%20project.pptx)   
 
 ---
 
