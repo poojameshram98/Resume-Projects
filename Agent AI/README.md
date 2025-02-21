@@ -23,9 +23,9 @@
 
 📌 Future Enhancements🔹 Wearable Integration: Real-time health monitoring through wearable devices.🔹 Telemedicine Support: Enhanced virtual consultations and follow-ups.🔹 Electronic Health Records (EHR) Integration: Improved personalization with patient data.
 
-📎 Resources & Documentation📂 Project Presentation (PPTX): Download Here
+📎 Resources & Documentation📂 Project Presentation (PPTX): Download Here (https://github.com/poojameshram98/Resume-Projects/blob/main/Agent%20AI/AI-Healthcare-Assistant.pptx )
 
-🔗 Project Links🌍 Live Demo: AI Healthcare Assistant📧 Contact: Pooja Meshram | Email📌 GitHub Repository: AI-Healthcare-Assistant
+🔗 Project Links🌍 Live Demo: AI Healthcare Assistant (https://console.mistral.ai/build/agents/ag:ff1ad897:20250217:ai-healthcare-assistant:a53a203d)📧 Contact: Pooja Meshram | Email📌 GitHub Repository: AI-Healthcare-Assistant
 
 🎯 ConclusionThe AI Healthcare Assistant represents a significant advancement in healthcare technology, offering users immediate, personalized, and reliable medical support. With ongoing enhancements, this AI agent sets the foundation for smarter, more accessible healthcare.
 
